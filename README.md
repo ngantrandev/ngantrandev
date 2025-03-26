@@ -10,13 +10,13 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=vehicle-repair-shop-api&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/vehicle-repair-shop-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=vehicle-repair-shop-web&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/vehicle-repair-shop-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=repair-shop-app&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/repair-shop-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=data-structure-and-algorithms&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/data-structure-and-algorithms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=todo-list-api&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/multimedia-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=restful-api-nodejs&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/restful-api-nodejs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=multimedia-web&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/multimedia-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=restaurant-management-application&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/restaurant-management-application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=ecommerce-app&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/ecommerce-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=data-structure-and-algorithms&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/data-structure-and-algorithms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=todo-list-api&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/multimedia-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=repair-shop-app&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/repair-shop-app)
 
 # 📊 GitHub Stats:
 
