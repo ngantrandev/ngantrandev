@@ -16,6 +16,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=restaurant-management-application&show_owner=true&description_lines_count=5&theme=react)](https://github.com/ngantrandev/restaurant-management-application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=ecommerce-app&show_owner=true&description_lines_count=5&theme=react)]([https://github.com/ngantrandev/ecommerce-app](https://github.com/ngantrandev/ecommerce-app))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=data-structure-and-algorithms&show_owner=true&description_lines_count=5&theme=react)]([https://github.com/ngantrandev/data-structure-and-algorithms](https://github.com/ngantrandev/data-structure-and-algorithms))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngantrandev&repo=todo-list-api&show_owner=true&description_lines_count=5&theme=react)]([https://github.com/ngantrandev/todo-list-api](https://github.com/ngantrandev/todo-list-api))
 
 # 📊 GitHub Stats:
 
