@@ -40,6 +40,8 @@ Mail: tranvanngan.work@gmail.com
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-00A5FF?style=for-the-badge&logo=railway&logoColor=white)
 
+![Metrics](/github-metrics.svg)
+
 <!--
 # Github Repos:
 
